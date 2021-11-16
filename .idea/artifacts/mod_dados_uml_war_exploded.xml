@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="mod_dados_uml:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/mod_dados_uml_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="mod_dados_uml/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="mod_dados_uml" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
